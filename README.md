@@ -32,7 +32,7 @@ We foster innovation by providing a cohesive way for all toolsets to communicate
 ### Common Security Data Exchange
 <hr>
 
-![CSDX-diagram2](https://github.com/csdxorg/csdx/assets/8293038/18020f04-ed86-49d4-9552-a94b7e7344be)
+![CSDX-diagram2](https://github.com/csdxorg/csdx/blob/main/CSDX-diagram2.jpg)
 
 A proposed method of communicating security data in a pub/sub model with data **storage** types based on the National Information Exchange Model (NIEM) Cyber Domain.
 
